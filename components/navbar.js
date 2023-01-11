@@ -4,7 +4,7 @@ function navbar () {
     <div id ="options">
             <img id = "logo" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5KK9ADgSi2BO9dOLPH3epWfEeLe4m-RzqYPb7YLcjW7MArQu19_sXSS3jhXy807JJOg&usqp=CAU">
             <div>New</div>
-            <div><a href = "womenData.html">Womenen</a></div>
+            <div><a href = "womenData.html">Women</a></div>
             <div>Men</div>
             <div>Kids</div>
             <div>Swim</div>
